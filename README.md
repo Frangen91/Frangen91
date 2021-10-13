@@ -1,16 +1,40 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+<h1>213429IACB</h1>
+</head>
+<body>
 
-<!--
-**Frangen91/Frangen91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>213429IACB</h2>
+<p>Olen Jaroslav Galitski.</p>
+<p>Ja see on minu esimene veebileht.</p>
+<p>Ehk kui midagi läheb valesti, siis pole mõtted kustutada selle lehte ära. Lihtsalt öelda, mida parandada.</p>
+<p>Ja kuna meil on vaja kirjutada 100 tähte teksti, siis 
+FrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangenFrangen.</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Narva_castle_2008.JPG" width="320" height="240">
+<a href="https://taltech.ee/">õpin siis</a> 
+  <table>
+  <tr>
+    <th>Kool</th>
+    <th>Haridus</th>
+    <th>Aasta</th>
+  </tr>
+  <tr>
+    <td>Narva Humanitaargümnaasium</td>
+    <td>keskharidus</td>
+    <td>2011</td>
+  </tr>
+  <tr>
+    <td>Tallinna Ülikool</td>
+    <td>BA, MA</td>
+    <td>2015, 2017</td>
+  </tr>
+  <tr>
+     <td>Tallina tehnika Ükool</td>
+     <td>BA</td>
+     <td>kestab</td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
+</html>
